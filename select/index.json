@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Black Sheep",
+  "base_artist": "Myuk",
+  "createdAt": "2025-12-17T00:46:39.277110Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/01_Black_Sheep_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Mick Jenkins",
+      "has_synced": true,
+      "path": "select/02_Black_Sheep_Mick_Jenkins.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Black Sheep Boy",
+      "artist": "Okkervil River",
+      "has_synced": true,
+      "path": "select/03_Black_Sheep_Boy_Okkervil_River.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Black Sheep, White Dove",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/04_Black_Sheep,_White_Dove_IDK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Gin Wigmore",
+      "has_synced": true,
+      "path": "select/05_Black_Sheep_Gin_Wigmore.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/06_Black_Sheep_Metric.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Sonata Arctica",
+      "has_synced": false,
+      "path": "select/07_Black_Sheep_Sonata_Arctica.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Sonata Arctica",
+      "has_synced": false,
+      "path": "select/08_Black_Sheep_Sonata_Arctica.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Suckers",
+      "has_synced": false,
+      "path": "select/09_Black_Sheep_Suckers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Triumph",
+      "has_synced": false,
+      "path": "select/10_Black_Sheep_Triumph.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Sheep Of The Family",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/11_Black_Sheep_Of_The_Family_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/12_Black_Sheep_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Black Sheep of the Family",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/13_Black_Sheep_of_the_Family_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Black Sheep Boy",
+      "artist": "Scott Walker",
+      "has_synced": true,
+      "path": "select/14_Black_Sheep_Boy_Scott_Walker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Hopsin feat. Eric Tucker",
+      "has_synced": true,
+      "path": "select/15_Black_Sheep_Hopsin_feat._Eric_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Hopsin",
+      "has_synced": true,
+      "path": "select/16_Black_Sheep_Hopsin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/17_Black_Sheep_Metric.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "Gin Wigmore",
+      "has_synced": true,
+      "path": "select/18_Black_Sheep_Gin_Wigmore.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Black Sheep",
+      "artist": "August Burns Red",
+      "has_synced": false,
+      "path": "select/19_Black_Sheep_August_Burns_Red.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Black Sheep",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/pl_01_Black_Sheep_Myuk.txt"
+    }
+  ]
+}
